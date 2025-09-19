@@ -12,3 +12,11 @@ valuable time and effort.
 With its smart extraction pipeline, the system transforms complex and unstructured data into organized, top-level documentation that can be used for research, compliance, or 
 business decision-making. This makes the process of data extraction not only faster but also more accurate, scalable, and user-friendly.
 
+✨ Key Benefits:
+
+      * Automated extraction of metadata, PDF text, and HTML structures
+      * Creation of top-level structured documentation
+      * Reduced manual workload and errors
+      * Time-efficient and scalable process for large datasets
+      * Easy accessibility and reusability of extracted information
+
